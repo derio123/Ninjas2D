@@ -1,6 +1,6 @@
 # projeto de ninjas 🙃
 
-Esse é o repositório é clone do instagram onde é imprementado a interface de login do Instagram! 
+Esse é o repositório é de projeto de Ninjas! 
 
 <div align='center'>
   <div>
